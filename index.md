@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to My Blog"
-date: YYYY-MM-DD
+date: 2024-12-08
 author: "Daniel E. Barrera Rivera"
 description: "An introduction to my personal-professional blog"
 tags: [introduction, blog]
