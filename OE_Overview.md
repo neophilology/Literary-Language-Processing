@@ -8,18 +8,20 @@ tags: [introduction, blog]
 ---
 
 # Old English Overview
+**by Daniel Barrera**
+*2024-12-08*
 
-Hello, and welcome to my personal-professional website! This is where I share insights, reflections, and updates on topics I’m passionate about, including:
+Data vizualization and NLP at the service of literature: What if we could see in an instant the main trends, origin, and exteansion of every literary text written in Old English?
 
-- Academic editing and literary pursuits
-- Language research and digital humanities
-- Tools and techniques for writing, editing, and publishing
+## Visualizing Literature
 
-## Recent Posts
+lollipop, bubble plots.
 
-Here’s a sneak peek at some of my recent blog posts:
+### All the manuscripts
 
-- [Post Title 1](#)  
   *A brief description of the topic.*
 
 ![MS Old English](assets/images/Old-English-Literary-Texts01.png)
+
+
+- [All the manuscripts](#)  
