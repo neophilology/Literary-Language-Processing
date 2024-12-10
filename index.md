@@ -29,13 +29,13 @@ Here’s a sneak peek at some of my recent blog posts:
   *A multi-plot overview of the literary texts written in English according to their manuscripts, topic, and word-length.*
   
 - [Charles Dickens's *Hard Times*](#)  
-  *Another description of a different post.*
+  *Tracing the realtionship between character agency and topic development.*
 
 ## About Me
 
-I’m a language-focused researcher, editor, and digital humanities graduate from Tübingen University. My work bridges traditional philology and modern data science: a neoPhilology.
+I’m a literatures and cultures researcher, editor, and digital humanities graduate from Tübingen University. My work bridges traditional philology and modern data science: a neoPhilology.
 
-![Author Image](assets/images/author.jpg)
+![neoPhi_logo_web Image](assets/images/neoPhi_logo_web.jpg)
 
 Feel free to explore the site, and don’t hesitate to reach out if you have any questions or collaborations in mind.
 
