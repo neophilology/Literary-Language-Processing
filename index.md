@@ -7,7 +7,7 @@ description: "An introduction to the first's neoPhilology blog"
 tags: [NLP, Digital Humanities, Literature, blog]
 ---
 
-# Welcome to LLM!
+# Welcome to LLP!
 
 Here I share my research in digital humanities and English literature.
 I apply data science methods and data visualization applied to literary texts.
@@ -35,7 +35,7 @@ Here’s a sneak peek at some of my recent blog posts:
 
 I’m a literatures and cultures researcher, editor, and digital humanities graduate from Tübingen University. My work bridges traditional philology and modern data science: a neoPhilology.
 
-![neoPhi_logo_web Image](assets/images/neoPhi_logo_web.jpg)
+
 
 Feel free to explore the site, and don’t hesitate to reach out if you have any questions or collaborations in mind.
 
