@@ -10,7 +10,7 @@ tags: [NLP, Digital Humanities, Literature, blog]
 # Welcome to LLP!
 
 Here I share my research in digital humanities and English literature.
-I apply data science methods and data visualization applied to literary texts.
+I apply data science methods and data visualization to literary texts.
 
 
 Because a language is its function, the **"natural" language** we use to communicate every day differs from the **language of literary texts**. Thus, I create "Literary Language Processing" (LLP). LLP adapts tools and techniques from Natural Language Processing (NLP) to suit the complexity of literary analysis. 

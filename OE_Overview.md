@@ -19,9 +19,13 @@ lollipop, bubble plots.
 
 ### All the manuscripts
 
-  *A brief description of the topic.*
+  *An overview of the Old English manuscripts that contain literary texts, plus "Miscelaneous," which are texts featured in various Latin books.*
 
 ![MS Old English](assets/images/Old-English-Literary-Texts01.png)
+
+  *Only the main four poetic manuscripts, with indivisual titles.*
+
+![MS Old English](Old-English-Literary-Texts03.webp)
 
 
 - [All the manuscripts](#)  
