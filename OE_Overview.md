@@ -25,7 +25,7 @@ lollipop, bubble plots.
 
   *Only the main four poetic manuscripts, with indivisual titles.*
 
-![MS Old English](Old-English-Literary-Texts03.webp)
+![Four MS Old English](assets/images/Old-English-Literary-Texts03.webp)
 
 
 - [All the manuscripts](#)  
